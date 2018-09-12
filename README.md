@@ -16,8 +16,8 @@ The kernel can only easily be built on linux (tested on `debian stretch`)
 	* I could not (in reasonable time to start the project) properly cross compile `elf`s on `macos`
 
 ## references
-https://os.phil-opp.com/multiboot-kernel/
-https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
+* https://os.phil-opp.com/multiboot-kernel/
+* https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
 
 ## todo
 ~* docker image of build envirionment~ (not necessarily useful, see [above](#development))
