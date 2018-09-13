@@ -2,6 +2,14 @@
 
 an attempt at making a kernel
 
+## architecture
+
+* `/boot` : routines to enter long mode
+* `/init` : initialization calls
+* `/kio` : kernel-level logging
+* `/mem` : memory map and management
+* `/build` : build artifacts
+
 ## development
 The kernel can only easily be built on linux (tested on `debian stretch`)
 

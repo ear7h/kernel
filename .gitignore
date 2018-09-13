@@ -1,5 +1,5 @@
-nimcache
-*.o
+**/*.o
+**/*.a
 **/*kernel
 *.iso
 build
