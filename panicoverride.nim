@@ -1,7 +1,7 @@
+import kernio/kernio
+
 proc rawoutput(s: string) = 
-  # fail silently
-  return
+  echo s
 
 proc panic(s: string) =
-  # fail silently
-  return
+  echo s
