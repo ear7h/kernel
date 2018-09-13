@@ -1,0 +1,5 @@
+nimcache
+*.o
+**/*kernel
+*.iso
+build
